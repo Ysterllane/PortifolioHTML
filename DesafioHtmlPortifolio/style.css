@@ -1,14 +1,14 @@
 h1 {
-    color: white;
+    color: rgba(15, 15, 15, 0);
     /* Adicionar mais estilos conforme necessário */
 }
 p {
-    color: white;
+    color: rgb(253, 172, 217);
     /* Adicionar mais estilos conforme necessário */
 }
 button {
     background-color: ciano;
-    color: white;
+    color: rgb(255, 165, 236);
     border: none;
     /* Adicionar mais estilos conforme necessário */
 }
