@@ -25,3 +25,21 @@ Chegou a hora de dar um toque visual à sua página! Escolha uma imagem que repr
 * Adicione dois botões (button ou a tags) para Instagram e Github.
 * Insira um espaço para a imagem (img tag) do lado direito.
 * Personalize o texto e a imagem conforme seu portfólio.
+
+2.1) Estruturando a página com tags semânticas
+* Comece com as tags básicas do HTML (html, head, body).
+* No body, crie uma tag header e adicione um menu ou logotipo.
+* Use a tag main para adicionar o conteúdo principal: título, parágrafo, botões, e imagem.
+* Finalize com a tag footer, incluindo informações de contato ou direitos autorais.
+
+3.1) Entendendo e aplicando as tags meta
+* Defina o idioma com lang="pt-br" na tag html.
+* Use charset="UTF-8" na tag meta para suportar acentuação.
+* Adicione uma tag meta para compatibilidade com o Edge (http-equiv="X-UA-Compatible" e content="IE=edge").
+* Configure o viewport com name="viewport" e content="width=device-width, initial-scale=1.0".
+* Mude o título da página para algo personalizado.
+
+4.1) Inserindo e formatando elementos no HTML
+* Adicione um título (< h1 >) no seu HTML. Use a tag < strong > / < b > para destacar uma parte do título.
+* Insira um parágrafo (< p >) logo abaixo do título, apresentando uma introdução ou descrição.
+* Crie links (< a >) para suas redes sociais ou portfólios. Lembre-se de usar o atributo href com os links corretos.
